@@ -3,13 +3,14 @@
 ![image](https://github.com/molla202/NuLink-Horus2/assets/91562185/b8633ea4-d5c1-4d0e-93c8-66d70209c041)
 
 ## Linkler:
- * [Dosyanın orjinali]([https://t.me/corenodechat](https://github.com/Core-Node-Team/Testnet-TR/blob/main/NuLink-Horus2/README.md))
- * [Doldurulacak Form]([https://discord.gg/25CQFUuwJS](https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9))
- * [Twitter]([https://discord.gg/25CQFUuwJS](https://twitter.com/corenodeHQ/status/1756332614795870487))
  * [NuLink Resmi Discord](https://discord.gg/25CQFUuwJS)
  * [NuLink Dökümantasyon](https://docs.nulink.org/products/stakers/nulink_worker/eth_account/)
  
 [VİDEO ANLATIM KURULUM TIKLA](https://www.youtube.com/watch?v=_wxAYMxd_WQ)
+
+Dosyanın orjinali ==> https://github.com/Core-Node-Team/Testnet-TR/blob/main/NuLink-Horus2/README.md
+[([Doldurulacak Form](https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9))](https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9)
+ * [Twitter]([https://discord.gg/25CQFUuwJS](https://twitter.com/corenodeHQ/status/1756332614795870487))
 
 ### Sistem Gereksinimleri
 
