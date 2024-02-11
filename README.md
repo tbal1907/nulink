@@ -8,9 +8,9 @@
  
 [VİDEO ANLATIM KURULUM TIKLA](https://www.youtube.com/watch?v=_wxAYMxd_WQ)
 
-Dosyanın orjinali ==> https://github.com/Core-Node-Team/Testnet-TR/blob/main/NuLink-Horus2/README.md
-[([Doldurulacak Form](https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9))](https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9)
- * [Twitter]([https://discord.gg/25CQFUuwJS](https://twitter.com/corenodeHQ/status/1756332614795870487))
+ * Dosyanın orjinali ==> https://github.com/Core-Node-Team/Testnet-TR/blob/main/NuLink-Horus2/README.md
+ * Doldurulacak Form ==> https://cform.coinlist.co/forms/e24241d2-e123-4ab9-85a2-cbe6afe66cb9
+ * Twitter ==> https://twitter.com/corenodeHQ/status/1756332614795870487
 
 ### Sistem Gereksinimleri
 
